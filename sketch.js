@@ -16,7 +16,7 @@ function preload()
 }
 
 function setup() {
-  createCanvas(500, 500);
+  createCanvas(800, 800);
   
   dog=createSprite(250,250,10,10);
   dog.addImage(dogImg);
